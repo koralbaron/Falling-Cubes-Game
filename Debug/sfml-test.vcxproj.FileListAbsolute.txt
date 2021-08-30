@@ -1,0 +1,2 @@
+E:\AllProjects\testGames\sfml-test\Debug\sfml-test.exe
+E:\AllProjects\testGames\sfml-test\Debug\sfml-test.pdb
